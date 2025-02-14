@@ -48,19 +48,25 @@ Para gestionar los riesgos, se utilizan metodologías como **análisis de impact
 El **MFA (Multi-Factor Authentication)** es un método de autenticación que requiere más de un factor para verificar la identidad de un usuario, reduciendo el riesgo de accesos no autorizados.
 
 Los factores de autenticación pueden ser:
-1. **Algo que sabes** (Contraseñas, PINs).
-2. **Algo que tienes** (Tokens físicos, dispositivos móviles).
-3. **Algo que eres** (Biometría: huellas dactilares, reconocimiento facial).
+1. **Algo que sabes:** Contraseñas o PINs.
+2. **Algo que tienes:** Tokens físicos y dispositivos móviles.
+3. **Algo que eres:** La biometría, tal como, huellas dactilares y reconocimiento facial.
+   ![MFA](https://cdn.prod.website-files.com/61845f7929f5aa517ebab941/66d6c14aea60d1dc6eb965cb_Multi-Factor%20Authentication-%20How%20It%20Works%20and%20Why%20It%20Matters.jpg)
 
-Implementar MFA fortalece la seguridad, especialmente en sistemas críticos como banca en línea o acceso a datos corporativos.
+Al implementarse el MFA se fortalece la seguridad, especialmente en sistemas críticos como banca en línea o acceso a datos corporativos.
 
 ---
 ## Vulnerabilidad
 
 Una **vulnerabilidad** es cualquier debilidad en un sistema de información que puede ser explotada por amenazas para comprometer la seguridad. Estas pueden ser:
 
-- **Vulnerabilidades de software**: Errores en código o configuraciones incorrectas.
+![Vulnerabilidades_software](https://www.muycomputer.com/wp-content/uploads/2015/03/Las-vulnerabilidades-de-software-se-han-incrementado-un-18-por-ciento-en-2014.jpg)
+-  **Vulnerabilidades de software**: Errores en código o configuraciones incorrectas.
+
+  ![Vulnerabilidades_hardware](https://i0.wp.com/www.muyseguridad.net/wp-content/uploads/2020/03/vulnerabilidades_en_procesadores_3.jpg?ssl=1)
 - **Vulnerabilidades de hardware**: Fallas en dispositivos físicos.
+
+  ![Errores_humanos](https://itcomunicacion.com.mx/wp-content/uploads/2018/10/ContraDebiles.jpg)
 - **Errores humanos**: Uso de contraseñas débiles, mala configuración de accesos.
 
 La gestión de vulnerabilidades incluye la identificación, evaluación y aplicación de parches de seguridad.
