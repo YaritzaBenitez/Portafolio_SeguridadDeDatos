@@ -1,8 +1,6 @@
-# Portafolio Seguridad de Datos
+# Conceptos Básicos de Seguridad de Datos
 
-Este es un repositorio donde se guardarán todas las evidencias y actividades realizadas durante mi clase de Seguridad de Datos.
-
-Para ello, es necesario estar familiarizado con ciertos conceptos fundamentales en el ámbito de la seguridad de la información.
+Para lograr comprender todos los temaas a profundidad es necesario estar familiarizado con ciertos conceptos del ámbito de la seguridad de datos.
 
 ---
 ## CIA Triad
