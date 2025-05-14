@@ -6,4 +6,4 @@ Demasiado congelado. Todo parece blanco como la nieve.
 Pista:
 Lo que no ves a simple vista, puede aparecer con una poco de contraste.
 
-![Frozen Trees](frozen_trees.png)
+![Frozen Trees](Parcial_3/Frozen_trees.png)
