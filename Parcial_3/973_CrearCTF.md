@@ -1,4 +1,4 @@
-# Título: Christmas
+# Título: Nevado
 ### Descripción:
 Demasiado congelado. Todo parece blanco como la nieve.
 ¿Puedes derretir la imagen lo suficiente como para encontrarlo?
